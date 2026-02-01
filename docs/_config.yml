@@ -27,7 +27,7 @@ url: https://oskarhuotari.github.io/ # the base hostname & protocol for your sit
 github_username:  oskarhuotari
 
 # Build settings
-theme: minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 

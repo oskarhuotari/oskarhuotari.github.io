@@ -25,6 +25,9 @@ Now I must confess something. I spent hours trying to debug the magnetometer, be
 - Secondly, I hadn't read the datasheet well before designing the PCB. When I later looked at the datasheet, I saw that it contained uncomfotably little information. Moreover, the datasheet had false statements about which SPI modes the device can use. I also think that the sensor ID is wrong.
 - Thirdly, I tried to repair the PCB as ChatGPT told me that the line needed to be pulled down (I had it pulled up and the datasheet stated only "CS: For I2c, Pull to VCC"). This was total garbage and even a bad engineer would know that ChatGPT's response was BS. I still tried to change the 0603 resistor and probably broke the PCB using too high hot air temperature (although the solder paste wouldn't melt before 400 C?).
 
+See here for more techical information about this PCB:
+- https://github.com/oskarhuotari/Tonttuboard-PCB
+
 ---
 TLDR; I designed my first ever PCB. Here's some things I learned:
 - Electricity doesn't travel in wires and if you have an x layer pcb with fast signals, you actually have x/2 layers for signals and power

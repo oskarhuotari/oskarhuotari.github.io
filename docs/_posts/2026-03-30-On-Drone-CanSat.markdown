@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "On drone CanSat"
-date:   2026-03-30 16:29:00 +0200
-categories: cansat PCB code 
+title: "On drone CanSat"
+date: 2026-03-30 12:00:00 +0200
+categories: cansat PCB code
 ---
 
 # My Project
@@ -18,7 +18,4 @@ categories: cansat PCB code
 ## Code
 ```cpp
 void setup() {}
-
-
-
-- https://github.com/oskarhuotari/Tonttuboard-PCB
+```

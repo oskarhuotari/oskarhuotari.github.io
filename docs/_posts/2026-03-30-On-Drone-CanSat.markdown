@@ -8,7 +8,7 @@ categories: cansat PCB code
 # My Project
 
 ## Image
-![Test]({{ '/assets/images/dronesatFuckedUp.jpg' | relative_url }})
+![Test]({{ '/assets/images/dronesatFuckedUp.png' | relative_url }})
 
 ## Video
 <video controls width="600">
